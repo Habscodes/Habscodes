@@ -11,11 +11,11 @@ Hello! I’m Abdullah , a Computer Science Student passionate about coding, desi
 ## Skills
 - **Languages & Frameworks:** HTML, CSS, JavaScript, React, Node.js
 - **Design Tools:** Adobe Photoshop, Corel Draw
-- **Web3 Technologies:** Solidity, Ethereum
+- **Web3 Technologies:** Solidity, Ethereum, Rust , Near Protocol
 
 ## Current Projects
 - **[Hablo-Garden]:** [At Hablo Garden, we bring nature's beauty to your doorstep.](https://github.com/Habfrejo/Hablo-Garden)
-- **[Habfrejo/Hablospace-Movies]:** [Explore an extensive collection of movies](https://github.com/Habfrejo/Hablospace-Movies)
+- **[Hablospace-Movies]:** [Explore an extensive collection of movies](https://github.com/Habfrejo/Hablospace-Movies)
 
 ## Contact Me
 - **Email:** [abdullahabdulwaheed05@gmail.com]
