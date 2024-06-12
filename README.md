@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello! I’m Abdullah , a Computer Science Student passionate about coding, design, Web3, and chess. Here, you'll find a mix of my projects and experiments.
+Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and chess. Here, you'll find a mix of my projects and experiments.
 
 ## About Me
 - **💻 Web Designer:** Creating beautiful and user-friendly websites.
