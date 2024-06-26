@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile!
-![Excited GIF](https://media.tenor.com/images/4a45a3f1b90b605af5fa20235c65e620/tenor.gif)
+![Code Coding GIF](https://media.tenor.com/images/4a45a3f1b90b605af5fa20235c65e620/tenor.gif)
+
 
 Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and chess. Here, you'll find a mix of my projects and experiments.
 
