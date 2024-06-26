@@ -40,9 +40,9 @@ Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and che
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Habscodes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Habscodes" /></p>
 
-## Current Projects
+<!--## Current Projects
 - **[Hablo-Garden]:** [At Hablo Garden, we bring nature's beauty to your doorstep.](https://github.com/Habfrejo/Hablo-Garden)
-- **[Hablospace-Movies]:** [Explore an extensive collection of movies](https://github.com/Habfrejo/Hablospace-Movies)
+- **[Hablospace-Movies]:** [Explore an extensive collection of movies](https://github.com/Habfrejo/Hablospace-Movies)-->
 
 ## Contact Me
 - **Email:** [abdullahabdulwaheed05@gmail.com]
