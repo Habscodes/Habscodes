@@ -12,6 +12,11 @@ Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and che
 - **🌐 Web3 Learner:** Exploring decentralized applications and blockchain technology.
 - **♟️ Chess Player:** Sharing fun chess-related projects and tools.
 
+### Contact Me
+- **Email:** [abdullahabdulwaheed05@gmail.com]
+
+Let’s connect and collaborate on exciting projects!
+
 <!-- ## Skills
 - **Languages & Frameworks:** HTML, CSS, JavaScript, React, Node.js
 - **Design Tools:** Adobe Photoshop, Corel Draw
@@ -43,9 +48,4 @@ Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and che
 <!--## Current Projects
 - **[Hablo-Garden]:** [At Hablo Garden, we bring nature's beauty to your doorstep.](https://github.com/Habfrejo/Hablo-Garden)
 - **[Hablospace-Movies]:** [Explore an extensive collection of movies](https://github.com/Habfrejo/Hablospace-Movies)-->
-
-### Contact Me
-- **Email:** [abdullahabdulwaheed05@gmail.com]
-
-Let’s connect and collaborate on exciting projects!
 
