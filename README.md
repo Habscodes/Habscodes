@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 ![Code Coding GIF](https://github.com/Habfrejo/Habfrejo/blob/main/code-coding.gif)
 
-
+![Code Coding GIF](https://github.com/Habfrejo/Habfrejo/blob/main/giphy.webp)
 Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and chess. Here, you'll find a mix of my projects and experiments.
 
 ## About Me
