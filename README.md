@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-![Code Coding GIF](https://media.tenor.com/images/4a45a3f1b90b605af5fa20235c65e620/tenor.gif)
+![Code Coding GIF](https://github.com/Habfrejo/Habfrejo/blob/main/code-coding.gif)
 
 
 Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and chess. Here, you'll find a mix of my projects and experiments.
@@ -7,6 +7,8 @@ Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and che
 ## About Me
 - **💻 Web Designer:** Creating beautiful and user-friendly websites.
 - **🎨 Graphics Designer:** Designing creative visuals and UI/UX elements.
+
+
 - **🌐 Web3 Learner:** Exploring decentralized applications and blockchain technology.
 - **♟️ Chess Player:** Sharing fun chess-related projects and tools.
 
