@@ -33,6 +33,12 @@ Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and che
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Near Protocol](https://img.shields.io/badge/Near%20Protocol-000000?style=for-the-badge&logo=near%20protocol&logoColor=white)
 
+<h2 align="left">Stats so far</h2>
+<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=santiagobedoa&&theme=xcode)](https://github.com/santiagobedoa) -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Habscodes&theme=tokyonight" alt="Habscodes" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Habscodes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Habscodes" /></p>
 
 ## Current Projects
 - **[Hablo-Garden]:** [At Hablo Garden, we bring nature's beauty to your doorstep.](https://github.com/Habfrejo/Hablo-Garden)
