@@ -8,8 +8,6 @@ Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and che
 ## About Me
 - **💻 Web Designer:** Creating beautiful and user-friendly websites.
 <!--- **🎨 Graphics Designer:** Designing creative visuals and UI/UX elements.-->
-
-
 - **🌐 Web3 Learner:** Exploring decentralized applications and blockchain technology.
 - **♟️ Chess Player:** Sharing fun chess-related projects and tools.
 
