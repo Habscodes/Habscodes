@@ -33,11 +33,13 @@ Let’s connect and collaborate on exciting projects!
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-32A852?style=for-the-badge&logo=corel%20draw&logoColor=white)
 
+<!--
 ### Web3 Technologies
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+ ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Near Protocol](https://img.shields.io/badge/Near%20Protocol-000000?style=for-the-badge&logo=near%20protocol&logoColor=white)
+-->
 
 ### Stats so far
 <!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=santiagobedoa&&theme=xcode)](https://github.com/santiagobedoa) -->
