@@ -14,7 +14,7 @@ Hello! I’m Abdullah , a Student passionate about coding, design, Web3, and che
 - **♟️ Chess Player:** Sharing fun chess-related projects and tools.
 
 ### Contact Me
-- **Email:** [abdullahabdulwaheed05@gmail.com]
+- **Email:** [abdullahshittu8@gmail.com]
 
 Let’s connect and collaborate on exciting projects!
 
